@@ -1,88 +1,133 @@
-# Hi 👋, I'm Shanthi Nenavath
+<div align="center">
 
-### 🚀 Full Stack Developer
+# Hi, I'm Shanthi Nenavath 
 
-I build modern, responsive, and user-friendly web applications
-with clean interfaces and scalable backend systems.
+### Full Stack Developer • React • Node.js • MongoDB • Python
+
+Building modern web applications with clean UI, solid backend architecture,
+and a focus on real-world problem solving.
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Electrical & Electronics Engineering
-- 💻 Focused on Full Stack Development
-- 🌱 Currently improving my DSA & development skills
+I'm a **Full Stack Developer** focused on building responsive,
+user-friendly and scalable web applications.
+
+- 🎓 B.Tech — Electrical & Electronics Engineering
+- 💻 Full Stack Development
 - 🚀 Building real-world projects
+- 🌱 Continuously improving DSA, backend development and system design
 - 📍 Hyderabad, India
 
+I enjoy turning ideas into functional products — from intuitive
+frontend experiences to reliable backend APIs and database systems.
+
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🛍️ ShopMatrix
-A modern MERN stack e-commerce application.
 
-**Tech:** React • Node.js • Express • MongoDB
+**MERN Stack E-Commerce Platform**
+
+A modern e-commerce application focused on product discovery,
+shopping experience and responsive UI.
+
+**Built with:** React • Node.js • Express • MongoDB
+
+🔗 Live Demo • GitHub
+
+---
 
 ### 🔐 VaultX
-A secure file management and private workspace application.
 
-**Tech:** React • Node.js • Express • MongoDB
+**Secure File Management Platform**
 
-### ✨ SHAW
-A modern, premium web application focused on clean UI and interactive experiences.
+A private workspace designed for managing and organizing files
+through a modern dashboard experience.
 
-**Tech:** React • JavaScript • CSS
+**Built with:** React • Node.js • Express • MongoDB
+
+🔗 Live Demo • GitHub
+
+---
+
+### ✦ SHAW
+
+**Modern Interactive Web Experience**
+
+A premium web application focused on modern visual design,
+responsive layouts and smooth user interactions.
+
+**Built with:** React • JavaScript • CSS
+
+🔗 Live Demo • GitHub
+
+---
 
 ### 📱 Expo Gallery
-A mobile gallery application built with React Native and Expo.
 
-**Tech:** React Native • Expo • JavaScript
+**React Native Mobile Application**
 
----
+A mobile gallery experience built with React Native and Expo,
+focused on clean navigation and media management.
 
-## 📊 GitHub Stats
+**Built with:** React Native • Expo • JavaScript
 
-![Shanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanthinenavath4-arch&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanthinenavath4-arch&layout=compact&theme=tokyonight)
+🔗 GitHub
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 What I'm Currently Working On
 
-📧 **Email:** Add your email here
-
-💼 **LinkedIn:** Add your LinkedIn URL here
-
-🌐 **Portfolio:** Coming Soon
-
----
-
-### 💙 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and projects.
+```text
+▸ Building production-ready Full Stack applications
+▸ Improving Data Structures & Algorithms
+▸ Strengthening Node.js & backend development
+▸ Learning better database design
+▸ Building a professional developer portfolio
