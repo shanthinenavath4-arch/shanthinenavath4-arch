@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Shanthi Nenavath
 
-<!--
-**shanthinenavath4-arch/shanthinenavath4-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer 🚀
 
-Here are some ideas to get you started:
+I build modern, responsive and user-friendly web applications
+with clean frontend experiences and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+- React.js
+- JavaScript
+- HTML & CSS
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- SQL
+- Git & GitHub
+
+---
+
+### 🚀 Featured Projects
+
+🔹 ShopMatrix — MERN E-commerce Platform  
+🔹 VaultX — Secure File Management Platform  
+🔹 SHAW — Modern Web Application  
+🔹 Expo Gallery — React Native Application
+
+---
+
+### 🎯 Currently
+
+- Building full-stack applications
+- Improving DSA & problem-solving
+- Exploring modern web technologies
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn • GitHub • Portfolio
