@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shanthi Nenavath
+# Hi, I'm Shanthi Nenavath
 
 ### Full Stack Developer 🚀
 
